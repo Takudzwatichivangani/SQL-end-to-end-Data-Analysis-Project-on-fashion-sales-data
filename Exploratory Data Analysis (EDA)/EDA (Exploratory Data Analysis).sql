@@ -1,0 +1,6 @@
+-- 1) Database Exploration
+-- 2) Dimension Exploration
+-- 3) Date Exploration
+-- 4) Measures Exploration
+-- 5) Magnitude Analysis
+-- 6) Ranking
